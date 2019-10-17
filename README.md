@@ -1,5 +1,9 @@
 # ContentRecommendationApi
 
+Predicts and recommends content related to the keywords specified
+
+![Image of content suggestions](https://drulib.s3.amazonaws.com/content_rec_api.png)
+
 This folder has multiple scripts written in Python
 1. For predicting keywords from the content retrieved from billions of websites (discover_stories_from_web.py and website_keyword_predictor.py)
 2. Performing sentiment analysis on the data retrieved from the timeline of users using sophisticated machine learning techniques and improve the accuracy of the keywords that are of interest to the users.
